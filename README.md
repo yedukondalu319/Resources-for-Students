@@ -1,5 +1,7 @@
 The complete Python Programming course
+
 In this courses you will learn Python Programming Language. Enroll with 80% discount.
+
 Bellow, list of open source Python Programming tutorial
 - [Learn Python GUI with Tkinter: The Complete Guide](https://www.simpliv.com/python/learn-python-gui-with-tkinter-the-complete-guide).
 - [Python 1200: Practice for BEGINNERS](https://www.simpliv.com/python/python-1200-practice-for-beginners).
