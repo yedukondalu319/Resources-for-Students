@@ -33,3 +33,15 @@ Bellow, list of open source Python Programming tutorial
 - [Complete Python Beginners Bootcamp: Python Deluxe Edition](https://www.simpliv.com/python/complete-python-beginners-course-python-deluxe-edition).
 - [Python Pro - Python Basics for Machine Learning](https://www.simpliv.com/python/python-pro-python-basics-for-machine-learning).
 - [GUI Automation using Python| Python Automation](https://www.simpliv.com/python/gui-automation-using-python-python-automation).
+
+Python is a high-level dynamic programming language. It is quite easy to learn and provides powerful typing. Python code has a very ‘natural’ style to it, in that it is easy to read and understand (thanks to the lack of semicolons and braces). Python programming language runs on any platform, ranging from Windows to Linux to Macintosh, Solaris etc.
+The simplicity of Python is what it makes so popular. The following gives a highlight of its aesthetics:
+
+Highly readable language
+Clean visual layout
+Less syntactic exceptions
+Superior string manipulation
+Elegant and dynamic typing
+Interpreted nature
+Ideal for scripting and rapid application
+Fit for many platforms
