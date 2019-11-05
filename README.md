@@ -1,4 +1,4 @@
-The complete Python Programming course
+The complete Python Programming courses
 
 In this courses you will learn Python Programming Language. Enroll with 80% discount.
 
